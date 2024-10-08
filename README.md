@@ -3,7 +3,7 @@
 
 - 🔭 Our project is **Education App**
 
-- 📫 How to reach me **baokhangvu0@gmail.com**
+- 📫 How to reach Bao Khang **baokhangvu0@gmail.com**
 
 - ⚡ Fun fact **We are quite young**
 
