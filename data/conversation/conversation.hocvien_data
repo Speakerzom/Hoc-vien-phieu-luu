@@ -1,0 +1,31 @@
+{
+    "intro": [
+        "Chào mừng bạn đã đến với học viện phiêu lưu",
+        "Tôi là avatar của Mão, tôi sẽ giúp đỡ bạn trong suốt quá trình phiêu lưu",
+        "Bạn đã sẵn sàng để trải nghiệm thế giới học tập này chưa",
+        "Nhưng có một điều tôi muốn nói là",
+        "Trần Bảo Lâm ngon",
+        "Đúng không?"
+    ],
+
+    "close": ["Hẹn gặp lại bạn. Tạm biệt!"],
+
+    "math_intro": [
+        "Bạn đang ở môn Toán",
+        "Môn học này rất thú vị đấy hãy cùng học nào"
+    ],
+
+    "literature_intro": ["Môn học này quá khó hiểu, tôi khuyên bạn không nên học nó"],
+
+    "english_intro": ["Hi my friend!"],
+
+    "physics_intro": ["Có biết Anh Tanh không?"],
+
+    "chemistry_intro": ["Học cho cẩn thận đừng để tôi phản ứng gay gắt"],
+
+    "biology_intro": [
+        "Nói ít ngu ít",
+        "Nói nhiều ngu nhiều",
+        "Càng nói càng ngu"
+    ]
+}
